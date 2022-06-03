@@ -1,0 +1,16 @@
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\bin\Debug\net5.0\QuadraticComplexityAlgorithms.exe
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\bin\Debug\net5.0\QuadraticComplexityAlgorithms.deps.json
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\bin\Debug\net5.0\QuadraticComplexityAlgorithms.runtimeconfig.json
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\bin\Debug\net5.0\QuadraticComplexityAlgorithms.runtimeconfig.dev.json
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\bin\Debug\net5.0\QuadraticComplexityAlgorithms.dll
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\bin\Debug\net5.0\QuadraticComplexityAlgorithms.pdb
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\QuadraticComplexityAlgorithms.csproj.AssemblyReference.cache
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\QuadraticComplexityAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\QuadraticComplexityAlgorithms.AssemblyInfoInputs.cache
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\QuadraticComplexityAlgorithms.AssemblyInfo.cs
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\QuadraticComplexityAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\QuadraticComplexityAlgorithms.dll
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\refint\QuadraticComplexityAlgorithms.dll
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\QuadraticComplexityAlgorithms.pdb
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\QuadraticComplexityAlgorithms.genruntimeconfig.cache
+C:\Users\xxxxx\source\repos\AlgorithmsSort-master\AlgorithmsSort\obj\Debug\net5.0\ref\QuadraticComplexityAlgorithms.dll
